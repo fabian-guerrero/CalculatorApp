@@ -3,16 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev": "parcel src/index.html",
+    "dev": "parcel src/index.html --open",
     "build": "parcel build --public-url ./ src/index.html"
   },
   "customDistStructure": {
     "config": {
       ".js": "scripts",
       ".css": "styles"
-  }},
+    },
+    "options": {
+      "development": true
+    }
+  },
   "keywords": [],
-  "author": "",
+  "author": "Fabian Guerrero",
   "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
