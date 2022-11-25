@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/fabian-guerrero/TipCalculatorApp](https://github.com/fabian-guerrero/TipCalculatorApp)
+- Solution URL: [https://github.com/fabian-guerrero/CalculatorApp](https://github.com/fabian-guerrero/CalculatorApp)
 - Live Site URL: [https://fabian-guerrero.github.io/CalculatorApp/dist](https://fabian-guerrero.github.io/CalculatorApp/dist/)
 
 ## My process
